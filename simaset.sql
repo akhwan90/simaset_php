@@ -142,3 +142,4 @@ INSERT INTO `t_barang` (`id_barang`, `kode_brg1`, `kode_brg2`, `kode_brg3`, `kod
 (12, 'APR', 'IPA', '4', '1', 'APRIPA41', 'Solder Listrik', 'Sakura', 10000, 3, 1, 'Pembelian', '2012', '2012-06-12 18:29:48'),
 (13, 'APR', 'IPA', '4', '2', 'APRIPA42', 'Solder Listrik', 'Sakura', 10000, 3, 1, 'Pembelian', '2012', '2012-06-12 18:29:48'),
 (14, 'APR', 'IPA', '4', '3', 'APRIPA43', 'Solder Listrik', 'Sakura', 10000, 3, 1, 'Pembelian', '2012', '2012-06-12 18:29:48');
+  
